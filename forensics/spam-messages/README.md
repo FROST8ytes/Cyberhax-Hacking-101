@@ -1,4 +1,4 @@
-![1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/9f4acfd2-4c0e-4ae8-be09-20906e581e4c)![img](../../assets/banner.png)
+![img](../../assets/banner.png)
 
 <img src="../../assets/cyberhax.png" style="margin-left: 20px; zoom: 80%;" align=left />
 <font size="10">Spam Messages</font>
