@@ -42,7 +42,9 @@ Decoding a spam messages
   decode the spam messages.
   b. Pasted the content of the spam email into the online tool and provide the
   password as given in the challenge description.
+
 ![1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/fa044c08-3e70-46e9-97fe-baa3a8b3758c)
+
 4. Get Flag:
   a. Successfully decoded the spam message and revealing the flag
 ![2](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/8ba2b003-ac44-4b52-8749-9d8ecba84a24)
