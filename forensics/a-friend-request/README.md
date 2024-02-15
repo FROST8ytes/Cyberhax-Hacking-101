@@ -50,6 +50,7 @@ Flag example: `Cyberhax{3xmp13_f14g_h3r3}`
   b) Strings walkthrough
   
 ![c](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/db994d06-9c16-4d91-9e28-5c23b134f38c)
+
 ![Screenshot_2024-02-16_06-49-47](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/afa0f823-8f11-49da-b8dd-279f7108805b)
 
 
