@@ -1,0 +1,36 @@
+/* I hate the default CSS */
+/* Anyway, here's a reset on the styling */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ew the context is too close to the edge */
+body {
+    padding: 1.5rem;
+}
+
+/* okay now the lines are too close to each other */
+p {
+    padding: 1.5rem 0 1.5rem 0;
+}
+
+/* damn the page looks so empty */
+/* time to center the content */
+main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* ahhh that looks better (not really lmao) */
+/* 2/3 u_W4l */
+
+strong {
+    transition: font-size 0.3s ease;
+}
+
+/* ahhh that looks better */
