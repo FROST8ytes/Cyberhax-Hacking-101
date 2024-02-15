@@ -41,6 +41,7 @@ Flag example: `Cyberhax{3xmp13_f14g_h3r3}`
 2. Image Analysis:
   - Examined the image file, which is a picture of the titanic ship
   - Used tools like `binwalk` OR `strings` to investigate the image further.
+  
   a) Binwalk walkthrough
 
 ![f](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/c16c90d1-8cca-4b2c-aadd-55f6a2e03454)
