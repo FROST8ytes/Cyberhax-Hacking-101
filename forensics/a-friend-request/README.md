@@ -42,11 +42,13 @@ Flag example: `Cyberhax{3xmp13_f14g_h3r3}`
   - Examined the image file, which is a picture of the titanic ship
   - Used tools like `binwalk` OR `strings` to investigate the image further.
   a) Binwalk walkthrough
+
 ![f](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/c16c90d1-8cca-4b2c-aadd-55f6a2e03454)
 ![g](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/d49927c6-9063-469c-8c2c-cf11bc8a457f)
 
 
   b) Strings walkthrough
+  
 ![c](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/db994d06-9c16-4d91-9e28-5c23b134f38c)
 ![Screenshot_2024-02-16_06-49-47](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/afa0f823-8f11-49da-b8dd-279f7108805b)
 
