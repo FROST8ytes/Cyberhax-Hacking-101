@@ -37,16 +37,19 @@ https://www.youtube.com/watch?v=BbeeuzU5Qc8Q3liZXJoYXh7QzRuX1kwdV9IMzRSX3RIM193S
 ## Challenge Overview
 
 1. Opening the YouTube Link:
-   - Click on the provided YouTube link. However, it's important to note that legitimate youtube videos typically don't contain hidden vulnerabilities.
-
+  - Click on the provided YouTube link. However, it's important to note that legitimate youtube videos typically don't contain hidden vulnerabilities.
+![1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/9d03eb5a-04a3-415a-9098-40cd08de31fe)
+    
 2.URL Inspection:
   - As the video begins to load, observe the URL displayed in the address bar of your web browser. You'll notice that the link shortens as the video loads.
+![2](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/63c0ced6-0251-4aab-9fe8-97ccfd35c763)
 
 3.Character Extraction:
   - The shortening of the link suggests that certain characters within the URL are being omitted and are not part of the genuine YouTube link. Methodically extract these omitted characters.
-
+    
 4. Get Flag:
  - The extracted part appears to be encoded using Base64.
  - Decode to reveal the flag.
- 
+ ![a](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/f6cb4b45-4949-411a-a717-3b01a3378e60)
+
 
