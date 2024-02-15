@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  external:
+    container_name: robot-assistant
+    image: robot-assistant
+    build:
+      context: .
+      dockerfile: Dockerfile
+    user: 'node'
+    environment:
+      - NODE_ENV=production
+      - TZ=Asia/Kuala_Lumpur
+    restart: unless-stopped
+    ports:
+      - 5050:3000
