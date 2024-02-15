@@ -1,0 +1,74 @@
+version: '3.8'
+
+services:
+  parents-dotdot:
+    container_name: parents-dotdot
+    image: parents-dotdot
+    build:
+      context: ./parents-dotdot
+    ports:
+      - 1040:80
+    volumes:
+      - ./parents-dotdot:/var/www/html
+  
+  agent-sequel:
+    platform: linux/amd64
+    container_name: agent-sequel
+    image: agent-sequel
+    build:
+      context: ./agent-sequel
+    ports:
+     - 1030:1337
+
+  weird-character-behavior:
+    container_name: weird-character-behavior
+    image: weird-character-behavior
+    build:
+      context: ./weird-character-behavior
+    ports:
+      - 1020:80
+  
+  forgetful-admin:
+    container_name: forgetful-admin
+    image: php:7.4-apache
+    ports:
+      - 1010:80
+    volumes:
+      - ./forgetful-admin:/var/www/html
+  
+  robot-assistant:
+    container_name: robot-assistant
+    image: robot-assistant
+    build:
+      context: ./robot-assistant/
+    user: 'node'
+    environment:
+      - NODE_ENV=production
+      - TZ=Asia/Kuala_Lumpur
+    restart: unless-stopped
+    ports:
+      - 4000:3000
+  
+  your-vision-is-too-slow:
+    image: httpd:latest
+    container_name: your-vision-is-too-slow
+    ports:
+      - 3000:80
+    volumes:
+      - ./your-vision-is-too-slow/web:/usr/local/apache2/htdocs
+  
+  wheres-waldo-2.0:
+    image: httpd:latest
+    container_name: wheres-waldo-2.0
+    ports:
+      - 2000:80
+    volumes:
+      - ./wheres-waldo-2.0:/usr/local/apache2/htdocs
+  
+  wheres-waldo:
+    image: httpd:latest
+    container_name: wheres-waldo
+    ports:
+      - 1000:80
+    volumes:
+      - ./wheres-waldo:/usr/local/apache2/htdocs
