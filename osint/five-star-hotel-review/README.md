@@ -64,7 +64,8 @@ b)From the Hotel Website
 - Navigate to Location
 - Notice that Metro: Lavender (360m) is the nearest compare to others
   
-
+![osint](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/263f073d-cf8b-4f52-ba4b-ef4429d15aae)
+![osint1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/73a9b51f-5028-486c-bdcb-ab3daafada24)
 
 5. Get Flag:
   - Put in the MRT station into the flag format given.
