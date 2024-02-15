@@ -9,7 +9,7 @@
 
 ​Challenge Author(s): Fizi
 
-​Difficulty: <font color=green>Medium</font>
+​Difficulty: <font color=green>Easy</font>
 
 Flag: `Cyberhax{2004_04_21}`
 
