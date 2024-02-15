@@ -11,7 +11,7 @@
 
 ​Difficulty: <font color=green>Medium</font>
 
-Flag: `Lorem ipsum`
+Flag: `Cyberhax{y0u_FOuND_1T}`
 
 ## Synopsis
 
