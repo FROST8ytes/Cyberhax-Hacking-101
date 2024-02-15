@@ -15,7 +15,7 @@ Flag: `Cyberhax{Lavender_MRT}`
 
 ## Synopsis
 
-- Lorem ipsum
+The challenge involves with OSINT & Stalking Skills to find the flag just from an image posted online.
 
 ## Description
 
@@ -33,7 +33,7 @@ Flag example: `Cyberhax{Redhill_MRT}`
 ## Skills Learned
 
 - Location investigation
-- Finding valuable information just from an image
+- Finding valuable information from a website to find the flag
 
 ## Challenge Overview
 
@@ -52,12 +52,19 @@ Flag example: `Cyberhax{Redhill_MRT}`
     ![osint](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/3eadd334-d502-4634-bfc1-80e6dbc4ec16)
   - There are many ways to solve the challenge:
 
-a) Finding the actual picture posted and its review
+a) Finding the actual picture posted and its review:
 - Go to Hotel Boss page on Trip.com and click "See All Photos" to find the user posted image
 - Click on the User Upload 
 - Find the exact image and its reviews to find the MRT that the user suggest
 ![osint23](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/04573c0a-c2d8-4e09-a166-4495ef66db6e)
 ![osint3](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/c64cd5f8-fd73-4669-b433-ca6032570b22)
+
+b)From the Hotel Website
+- Most hotel website usually provide information regarding nearest Metro Station, Airport & Attraction.
+- Navigate to Location
+- Notice that Metro: Lavender (360m) is the nearest compare to others
+  
+
 
 5. Get Flag:
   - Put in the MRT station into the flag format given.
