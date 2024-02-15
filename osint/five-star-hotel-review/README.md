@@ -26,12 +26,38 @@ Flag example: `Cyberhax{Redhill_MRT}`
 
 ## Skills Required
 
-- Lorem ipsum
+- Basic stalking skills
+- Google Lens 
+- Google Map
 
 ## Skills Learned
 
-- Lorem ipsum
+- Location investigation
+- Finding valuable information just from an image
 
 ## Challenge Overview
 
-Lorem ipsum
+1. Initial Inspection:
+  - The challenge provides an image (pool.webp) from a hotel review somewhere on the internet
+
+2. Image Analysis:
+  - Utilize Google Lens to find the source of the image. by Right-Click on the image and click "Search image with Google"
+  - Based on the result, it appears that the image is from Hotel Boss from Trip.com.
+
+![osint1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/3541c9e1-6fe0-4168-b7b9-f05856ac6109)
+
+
+3. Stalking:
+  - Navigate to the Hotel Boss website on Trip.com
+    ![osint](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/3eadd334-d502-4634-bfc1-80e6dbc4ec16)
+  - There are many ways to solve the challenge:
+
+a) Finding the actual picture posted and its review
+- Go to Hotel Boss page on Trip.com and click "See All Photos" to find the user posted image
+- Click on the User Upload 
+- Find the exact image and its reviews to find the MRT that the user suggest
+![osint23](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/04573c0a-c2d8-4e09-a166-4495ef66db6e)
+![osint3](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/c64cd5f8-fd73-4669-b433-ca6032570b22)
+
+5. Get Flag:
+  - Put in the MRT station into the flag format given.
