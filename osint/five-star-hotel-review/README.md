@@ -9,7 +9,7 @@
 
 ​Challenge Author(s): Fizi
 
-​Difficulty: <font color=green>Easy</font>
+​Difficulty: <font color=green>Medium</font>
 
 Flag: `Cyberhax{Lavender_MRT}`
 
