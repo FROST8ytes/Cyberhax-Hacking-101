@@ -23,7 +23,7 @@ Let's celebrate our friend Luna Cadez birthday! Can you help us find out when it
 
 Let's make Luna's birthday unforgettable!
 
-Hint: Use X
+Hint: Use the 24th letter in the alphabet
 
 Flag format: `Cyberhax{yyyy_mm_dd}`
 
