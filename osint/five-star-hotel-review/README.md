@@ -67,5 +67,13 @@ b)From the Hotel Website
 ![osint](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/263f073d-cf8b-4f52-ba4b-ef4429d15aae)
 ![osint1](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/73a9b51f-5028-486c-bdcb-ab3daafada24)
 
+c) Google Map
+-We know that the image is from Hotel Boss
+-Search for Hotel Boss on Google Map and click on "Nearby" to find nearby MRT
+-Find the closest distance MRT
+![osint](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/35047f74-9c12-4a59-9623-a4046fa96400)
+![osint2](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/4c5d9865-c0fc-4553-b828-3d90d19ead8f)
+
+
 5. Get Flag:
   - Put in the MRT station into the flag format given.
