@@ -49,6 +49,8 @@ Flag format: `Cyberhax{yyyy_mm_dd}`
    - Now we see the pinned post which is about "People born on Wednesday" suggesting she was born on Wednesday.
    - On the second post, she posted a birthday related meme and commented under her own post which say "I would rate this meme 21/4".
    - This suggest she was born on 21/4/2004
+  
+     
 ![w](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/f0a7809b-e5c5-4b0e-aa44-6e2b1be47839)
 ![3](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/cc04ae17-6059-40fa-9a43-6e2e923ca0d9)
 
