@@ -59,7 +59,7 @@ a) Finding the actual picture posted and its review:
 ![osint23](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/04573c0a-c2d8-4e09-a166-4495ef66db6e)
 ![osint3](https://github.com/FROST8ytes/Cyberhax-Hacking-101/assets/131322679/c64cd5f8-fd73-4669-b433-ca6032570b22)
 
-b)From the Hotel Website
+b) From the Hotel Website
 - Most hotel website usually provide information regarding nearest Metro Station, Airport & Attraction.
 - Navigate to Location
 - Notice that Metro: Lavender (360m) is the nearest compare to others
