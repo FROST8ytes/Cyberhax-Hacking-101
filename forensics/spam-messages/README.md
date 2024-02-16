@@ -15,7 +15,7 @@ Flag: `Cyberhax{Sp4M_M3ss4g3_H11d3N_M3ss4g3}`
 
 ## Synopsis
 
-The challenge involves decoding a spam message with a password using an online tool.
+The challenge involves decoding a spam message with a password by using an online tool.
 
 ## Description
 
