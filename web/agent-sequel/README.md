@@ -13,6 +13,8 @@
 
 Flag: `Cyberhax{CRLF_3s_qu3_3l_1nj3ct10n}`
 
+Step 1
+
 ## Synopsis
 
 - The challenge involves a user login web application written in Golang and Nim.
